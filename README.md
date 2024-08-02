@@ -69,7 +69,7 @@ $ gin-project-gen upgrade
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/trumanwong/protoc-gen-go-gin/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/trumanwong/gin-project-gen/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
