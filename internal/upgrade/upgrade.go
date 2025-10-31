@@ -2,6 +2,7 @@ package upgrade
 
 import (
 	"fmt"
+
 	"github.com/trumanwong/gin-project-gen/internal/base"
 
 	"github.com/spf13/cobra"
@@ -21,7 +22,7 @@ func Run(_ *cobra.Command, _ []string) {
 		"github.com/trumanwong/gin-project-gen@latest",
 		"github.com/trumanwong/protoc-gen-go-gin@latest",
 		"github.com/trumanwong/protoc-gen-go-gin-errors@latest",
-		"google.golang.org/protobuf/cmd/protoc-gen-go@latest",
+		"github.com/trumanwong/protobuf-go/cmd/protoc-gen-go@latest",
 		"google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest",
 		"github.com/google/gnostic/cmd/protoc-gen-openapi@latest",
 	)
